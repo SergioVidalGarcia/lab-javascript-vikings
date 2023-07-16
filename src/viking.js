@@ -1,5 +1,12 @@
 // Soldier
-class Soldier {}
+class Soldier {
+    constructor(healt, strength){
+        
+        function atack(){
+            return Soldier.strength
+        }
+    }
+}
 
 // Viking
 class Viking {}
